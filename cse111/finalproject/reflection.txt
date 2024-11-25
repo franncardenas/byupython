@@ -1,0 +1,25 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I was able to see the power of functions in one of the assignments this semester, 
+when we were able to develop functions that contained very complex formulas within them.
+
+2. In your judgment, what is the value of test functions?
+
+I think they are necessary just to help us see the different errors that 
+our program may have, and they also allow us to test what we are developing.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+Well, first I try to understand what I want to achieve with the function, 
+then I look at the error it has if it gives me a clue to the problem, 
+and if it is a known error I fix it, if I don't know what error it is 
+I look it up on the internet so I can get more guidance on that error. 
+To improve I could investigate more about the python functions or modules 
+that are being used. Another one could be to use the VSC Debug. 
+
